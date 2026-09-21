@@ -1,0 +1,1328 @@
+{
+  "characters": "㐁㐂㐅㐆㐌㐖㐜㐡㐤㐧㐨㐩㐫㐬㐮㐰㐱㐲㑋㑌㑗㒀㒁㒊㕕㖃㗊㗑㙓㚘㜈㞢㟲㠭㡭㣌㥯㧀㧥㩻㫃㬎㭁㮇㲋㳄㴇㶫㷋㸚㹜㻞㼌㾕䀀䁇䃀䄫䇎䈉䊎䋛䍃䏿䐁䓙䙁䛐䞓䟴䣐䦕䧢䪞㐀㐭㐺㑁㑇㒫㒰㒲㒳㒴㒵㓅㓈㓉㓚㔓㔹㔺㔽㔿㕃㕆㕇㕛㕣㕦㕩㕪㕯㕸㕺㕻㘝㘞㘩㘴㚐㚒㚓㚖㚣㜽㜿㝉㝼㞋㞎㞥㞩㞪㠯㡀㢟㢧㫐㫘㱛㲌㲸㲼㲾㶡㸞㸦㸭㹢㺲㼘䀏䏍",
+  "count": 144,
+  "unicode_version": "17.0.0",
+  "source_url": "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+  "source_sha256": "f7a48b2b545acfaa77b2d607ae28747404ce02baefee16396c5d2d7a8ef34b5e",
+  "source_member_sha256": {
+    "Unihan_IRGSources.txt": "d1c817dd7db84295dab0643c277d97c2fa742c245f8824e6736c2a0935095325",
+    "Unihan_DictionaryLikeData.txt": "d0caf58b8be0683a34c9a4090d87c2fd8737067e089d34def83b8d8a4060297a",
+    "Unihan_Readings.txt": "575e69c9ad85a4737a889a4f94cbd987042a90a1a6cc16dd3f4ed995c715b17c"
+  },
+  "documentation_url": "https://www.unicode.org/reports/tr38/tr38-39.html#kTotalStrokes",
+  "license_url": "https://www.unicode.org/license.txt",
+  "selection_rule": "All recorded kTotalStrokes and kAlternateTotalStrokes values must be 1–14; CJK Extension A; definition present; exclude component-like 㔾 and 䒑. Obscurity and visual interest are editorial judgments, not measured frequency.",
+  "stroke_histogram": {
+    "2": 1,
+    "3": 1,
+    "4": 10,
+    "5": 15,
+    "6": 23,
+    "7": 21,
+    "8": 26,
+    "9": 6,
+    "10": 4,
+    "11": 1,
+    "12": 15,
+    "13": 10,
+    "14": 11
+  },
+  "records": [
+    {
+      "character": "㐁",
+      "codepoint": "U+3401",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㐂",
+      "codepoint": "U+3402",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㐅",
+      "codepoint": "U+3405",
+      "kTotalStrokes": 2,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        2
+      ]
+    },
+    {
+      "character": "㐆",
+      "codepoint": "U+3406",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㐌",
+      "codepoint": "U+340C",
+      "kTotalStrokes": 5,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        5
+      ]
+    },
+    {
+      "character": "㐖",
+      "codepoint": "U+3416",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㐜",
+      "codepoint": "U+341C",
+      "kTotalStrokes": 9,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        9
+      ]
+    },
+    {
+      "character": "㐡",
+      "codepoint": "U+3421",
+      "kTotalStrokes": 11,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        11
+      ]
+    },
+    {
+      "character": "㐤",
+      "codepoint": "U+3424",
+      "kTotalStrokes": 12,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        12
+      ]
+    },
+    {
+      "character": "㐧",
+      "codepoint": "U+3427",
+      "kTotalStrokes": 4,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        4
+      ]
+    },
+    {
+      "character": "㐨",
+      "codepoint": "U+3428",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㐩",
+      "codepoint": "U+3429",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㐫",
+      "codepoint": "U+342B",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㐬",
+      "codepoint": "U+342C",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㐮",
+      "codepoint": "U+342E",
+      "kTotalStrokes": 13,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        13
+      ]
+    },
+    {
+      "character": "㐰",
+      "codepoint": "U+3430",
+      "kTotalStrokes": 5,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        5
+      ]
+    },
+    {
+      "character": "㐱",
+      "codepoint": "U+3431",
+      "kTotalStrokes": 5,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        5
+      ]
+    },
+    {
+      "character": "㐲",
+      "codepoint": "U+3432",
+      "kTotalStrokes": 5,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        5
+      ]
+    },
+    {
+      "character": "㑋",
+      "codepoint": "U+344B",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㑌",
+      "codepoint": "U+344C",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㑗",
+      "codepoint": "U+3457",
+      "kTotalStrokes": 9,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        9
+      ]
+    },
+    {
+      "character": "㒀",
+      "codepoint": "U+3480",
+      "kTotalStrokes": 13,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        13
+      ]
+    },
+    {
+      "character": "㒁",
+      "codepoint": "U+3481",
+      "kTotalStrokes": 13,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        13
+      ]
+    },
+    {
+      "character": "㒊",
+      "codepoint": "U+348A",
+      "kTotalStrokes": 14,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        14
+      ]
+    },
+    {
+      "character": "㕕",
+      "codepoint": "U+3555",
+      "kTotalStrokes": 4,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        4
+      ]
+    },
+    {
+      "character": "㖃",
+      "codepoint": "U+3583",
+      "kTotalStrokes": 9,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        9
+      ]
+    },
+    {
+      "character": "㗊",
+      "codepoint": "U+35CA",
+      "kTotalStrokes": 12,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        12
+      ]
+    },
+    {
+      "character": "㗑",
+      "codepoint": "U+35D1",
+      "kTotalStrokes": 12,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        12
+      ]
+    },
+    {
+      "character": "㙓",
+      "codepoint": "U+3653",
+      "kTotalStrokes": 12,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        12
+      ]
+    },
+    {
+      "character": "㚘",
+      "codepoint": "U+3698",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㜈",
+      "codepoint": "U+3708",
+      "kTotalStrokes": 13,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        13
+      ]
+    },
+    {
+      "character": "㞢",
+      "codepoint": "U+37A2",
+      "kTotalStrokes": 4,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        4
+      ]
+    },
+    {
+      "character": "㟲",
+      "codepoint": "U+37F2",
+      "kTotalStrokes": 13,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        13
+      ]
+    },
+    {
+      "character": "㠭",
+      "codepoint": "U+382D",
+      "kTotalStrokes": 12,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        12
+      ]
+    },
+    {
+      "character": "㡭",
+      "codepoint": "U+386D",
+      "kTotalStrokes": 14,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        14
+      ]
+    },
+    {
+      "character": "㣌",
+      "codepoint": "U+38CC",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㥯",
+      "codepoint": "U+396F",
+      "kTotalStrokes": 14,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        14
+      ]
+    },
+    {
+      "character": "㧀",
+      "codepoint": "U+39C0",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㧥",
+      "codepoint": "U+39E5",
+      "kTotalStrokes": 9,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        9
+      ]
+    },
+    {
+      "character": "㩻",
+      "codepoint": "U+3A7B",
+      "kTotalStrokes": 10,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        10
+      ]
+    },
+    {
+      "character": "㫃",
+      "codepoint": "U+3AC3",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㬎",
+      "codepoint": "U+3B0E",
+      "kTotalStrokes": 14,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        14
+      ]
+    },
+    {
+      "character": "㭁",
+      "codepoint": "U+3B41",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㮇",
+      "codepoint": "U+3B87",
+      "kTotalStrokes": 12,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        12
+      ]
+    },
+    {
+      "character": "㲋",
+      "codepoint": "U+3C8B",
+      "kTotalStrokes": 9,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        9
+      ]
+    },
+    {
+      "character": "㳄",
+      "codepoint": "U+3CC4",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㴇",
+      "codepoint": "U+3D07",
+      "kTotalStrokes": 12,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        12
+      ]
+    },
+    {
+      "character": "㶫",
+      "codepoint": "U+3DAB",
+      "kTotalStrokes": 9,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        9
+      ]
+    },
+    {
+      "character": "㷋",
+      "codepoint": "U+3DCB",
+      "kTotalStrokes": 12,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        12
+      ]
+    },
+    {
+      "character": "㸚",
+      "codepoint": "U+3E1A",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㹜",
+      "codepoint": "U+3E5C",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㻞",
+      "codepoint": "U+3EDE",
+      "kTotalStrokes": 13,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        13
+      ]
+    },
+    {
+      "character": "㼌",
+      "codepoint": "U+3F0C",
+      "kTotalStrokes": 10,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        10
+      ]
+    },
+    {
+      "character": "㾕",
+      "codepoint": "U+3F95",
+      "kTotalStrokes": 12,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        12
+      ]
+    },
+    {
+      "character": "䀀",
+      "codepoint": "U+4000",
+      "kTotalStrokes": 10,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        10
+      ]
+    },
+    {
+      "character": "䁇",
+      "codepoint": "U+4047",
+      "kTotalStrokes": 13,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        13
+      ]
+    },
+    {
+      "character": "䃀",
+      "codepoint": "U+40C0",
+      "kTotalStrokes": 13,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        13
+      ]
+    },
+    {
+      "character": "䄫",
+      "codepoint": "U+412B",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "䇎",
+      "codepoint": "U+41CE",
+      "kTotalStrokes": 13,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        13
+      ]
+    },
+    {
+      "character": "䈉",
+      "codepoint": "U+4209",
+      "kTotalStrokes": 14,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        14
+      ]
+    },
+    {
+      "character": "䊎",
+      "codepoint": "U+428E",
+      "kTotalStrokes": 14,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        14
+      ]
+    },
+    {
+      "character": "䋛",
+      "codepoint": "U+42DB",
+      "kTotalStrokes": 12,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        12
+      ]
+    },
+    {
+      "character": "䍃",
+      "codepoint": "U+4343",
+      "kTotalStrokes": 10,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        10
+      ]
+    },
+    {
+      "character": "䏿",
+      "codepoint": "U+43FF",
+      "kTotalStrokes": 12,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        12
+      ]
+    },
+    {
+      "character": "䐁",
+      "codepoint": "U+4401",
+      "kTotalStrokes": 12,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        12
+      ]
+    },
+    {
+      "character": "䓙",
+      "codepoint": "U+44D9",
+      "kTotalStrokes": 12,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        12
+      ]
+    },
+    {
+      "character": "䙁",
+      "codepoint": "U+4641",
+      "kTotalStrokes": 14,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        14
+      ]
+    },
+    {
+      "character": "䛐",
+      "codepoint": "U+46D0",
+      "kTotalStrokes": 12,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        12
+      ]
+    },
+    {
+      "character": "䞓",
+      "codepoint": "U+4793",
+      "kTotalStrokes": 14,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        14
+      ]
+    },
+    {
+      "character": "䟴",
+      "codepoint": "U+47F4",
+      "kTotalStrokes": 14,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        14
+      ]
+    },
+    {
+      "character": "䣐",
+      "codepoint": "U+48D0",
+      "kTotalStrokes": 12,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        12
+      ]
+    },
+    {
+      "character": "䦕",
+      "codepoint": "U+4995",
+      "kTotalStrokes": 14,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        14
+      ]
+    },
+    {
+      "character": "䧢",
+      "codepoint": "U+49E2",
+      "kTotalStrokes": 14,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        14
+      ]
+    },
+    {
+      "character": "䪞",
+      "codepoint": "U+4A9E",
+      "kTotalStrokes": 13,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        13
+      ]
+    },
+    {
+      "character": "㐀",
+      "codepoint": "U+3400",
+      "kTotalStrokes": 5,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        5
+      ]
+    },
+    {
+      "character": "㐭",
+      "codepoint": "U+342D",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㐺",
+      "codepoint": "U+343A",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㑁",
+      "codepoint": "U+3441",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㑇",
+      "codepoint": "U+3447",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㒫",
+      "codepoint": "U+34AB",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㒰",
+      "codepoint": "U+34B0",
+      "kTotalStrokes": 5,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        5
+      ]
+    },
+    {
+      "character": "㒲",
+      "codepoint": "U+34B2",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㒳",
+      "codepoint": "U+34B3",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㒴",
+      "codepoint": "U+34B4",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㒵",
+      "codepoint": "U+34B5",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㓅",
+      "codepoint": "U+34C5",
+      "kTotalStrokes": 4,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        4
+      ]
+    },
+    {
+      "character": "㓈",
+      "codepoint": "U+34C8",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㓉",
+      "codepoint": "U+34C9",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㓚",
+      "codepoint": "U+34DA",
+      "kTotalStrokes": 5,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        5
+      ]
+    },
+    {
+      "character": "㔓",
+      "codepoint": "U+3513",
+      "kTotalStrokes": 5,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        5
+      ]
+    },
+    {
+      "character": "㔹",
+      "codepoint": "U+3539",
+      "kTotalStrokes": 4,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        4
+      ]
+    },
+    {
+      "character": "㔺",
+      "codepoint": "U+353A",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㔽",
+      "codepoint": "U+353D",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㔿",
+      "codepoint": "U+353F",
+      "kTotalStrokes": 3,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        3
+      ]
+    },
+    {
+      "character": "㕃",
+      "codepoint": "U+3543",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㕆",
+      "codepoint": "U+3546",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㕇",
+      "codepoint": "U+3547",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㕛",
+      "codepoint": "U+355B",
+      "kTotalStrokes": 4,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        4
+      ]
+    },
+    {
+      "character": "㕣",
+      "codepoint": "U+3563",
+      "kTotalStrokes": 5,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        5
+      ]
+    },
+    {
+      "character": "㕦",
+      "codepoint": "U+3566",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㕩",
+      "codepoint": "U+3569",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㕪",
+      "codepoint": "U+356A",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㕯",
+      "codepoint": "U+356F",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㕸",
+      "codepoint": "U+3578",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㕺",
+      "codepoint": "U+357A",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㕻",
+      "codepoint": "U+357B",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㘝",
+      "codepoint": "U+361D",
+      "kTotalStrokes": 5,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        5
+      ]
+    },
+    {
+      "character": "㘞",
+      "codepoint": "U+361E",
+      "kTotalStrokes": 5,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        5
+      ]
+    },
+    {
+      "character": "㘩",
+      "codepoint": "U+3629",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㘴",
+      "codepoint": "U+3634",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㚐",
+      "codepoint": "U+3690",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㚒",
+      "codepoint": "U+3692",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㚓",
+      "codepoint": "U+3693",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㚖",
+      "codepoint": "U+3696",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㚣",
+      "codepoint": "U+36A3",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㜽",
+      "codepoint": "U+373D",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㜿",
+      "codepoint": "U+373F",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㝉",
+      "codepoint": "U+3749",
+      "kTotalStrokes": 4,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        4
+      ]
+    },
+    {
+      "character": "㝼",
+      "codepoint": "U+377C",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㞋",
+      "codepoint": "U+378B",
+      "kTotalStrokes": 5,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        5
+      ]
+    },
+    {
+      "character": "㞎",
+      "codepoint": "U+378E",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㞥",
+      "codepoint": "U+37A5",
+      "kTotalStrokes": 5,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        5
+      ]
+    },
+    {
+      "character": "㞩",
+      "codepoint": "U+37A9",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㞪",
+      "codepoint": "U+37AA",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㠯",
+      "codepoint": "U+382F",
+      "kTotalStrokes": 5,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        5
+      ]
+    },
+    {
+      "character": "㡀",
+      "codepoint": "U+3840",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㢟",
+      "codepoint": "U+389F",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㢧",
+      "codepoint": "U+38A7",
+      "kTotalStrokes": 4,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        4
+      ]
+    },
+    {
+      "character": "㫐",
+      "codepoint": "U+3AD0",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㫘",
+      "codepoint": "U+3AD8",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㱛",
+      "codepoint": "U+3C5B",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㲌",
+      "codepoint": "U+3C8C",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㲸",
+      "codepoint": "U+3CB8",
+      "kTotalStrokes": 4,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        4
+      ]
+    },
+    {
+      "character": "㲼",
+      "codepoint": "U+3CBC",
+      "kTotalStrokes": 5,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        5
+      ]
+    },
+    {
+      "character": "㲾",
+      "codepoint": "U+3CBE",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "㶡",
+      "codepoint": "U+3DA1",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    },
+    {
+      "character": "㸞",
+      "codepoint": "U+3E1E",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㸦",
+      "codepoint": "U+3E26",
+      "kTotalStrokes": 4,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        4
+      ]
+    },
+    {
+      "character": "㸭",
+      "codepoint": "U+3E2D",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㹢",
+      "codepoint": "U+3E62",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㺲",
+      "codepoint": "U+3EB2",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "㼘",
+      "codepoint": "U+3F18",
+      "kTotalStrokes": 8,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        8
+      ]
+    },
+    {
+      "character": "䀏",
+      "codepoint": "U+400F",
+      "kTotalStrokes": 7,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        7
+      ]
+    },
+    {
+      "character": "䏍",
+      "codepoint": "U+43CD",
+      "kTotalStrokes": 6,
+      "kAlternateTotalStrokes": null,
+      "verified_stroke_counts": [
+        6
+      ]
+    }
+  ]
+}
