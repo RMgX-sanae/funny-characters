@@ -49,20 +49,7 @@ python3 -m http.server 8000
 
 然后访问 `http://localhost:8000`。
 
-## 上传到 GitHub
 
-在 GitHub 新建名为 **funny-characters** 的公开仓库，将本目录内的文件上传到仓库根目录。`README.md`、`LICENSE` 和字体许可证已准备好。
-
-也可使用已安装并登录的 GitHub CLI：
-
-```sh
-git init -b main
-git add .
-git commit -m "Add funny-characters Unicode keyboard"
-gh repo create funny-characters --public --source=. --remote=origin --push
-```
-
-上传后，若需要让同学直接在线使用，可以在仓库 **Settings → Pages** 中选择从 `main` 分支的根目录发布。本项目本身适合静态托管。
 
 ## 已验证
 
